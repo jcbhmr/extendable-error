@@ -1,2 +1,4 @@
-# extendable-error
-Throw more specific errors!
+# Extendable Error Class
+🧱 Extend the native Error class
+
+<!-- TODO: Add code example -->
