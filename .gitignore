@@ -1,0 +1,10 @@
+# Ignore Node deps
+/node_modules/
+
+# Ignore TS build files
+*.js
+*.js.map
+*.d.ts
+
+# Result of 'npm pack'
+/*.tgz
