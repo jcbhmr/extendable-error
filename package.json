@@ -5,8 +5,8 @@
 	"main": "./-.js",
 	"types": "./-.d.ts",
 	"scripts": {
-		"test": "./test.sh",
-		"prepack": "./build.sh"
+		"test": "sh ./test.sh",
+		"prepack": "sh ./build.sh"
 	},
 	"prettier": {
 		"useTabs": true,
