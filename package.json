@@ -1,7 +1,7 @@
 {
 	"name": "@jcbhmr/extendable-error",
 	"description": "🧱 Extend the native Error class",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"main": "./-.js",
 	"types": "./-.d.ts",
 	"scripts": {
