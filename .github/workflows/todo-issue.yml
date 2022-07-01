@@ -16,6 +16,6 @@ jobs:
       - uses: derjuulsn/todo-issue@main
         # https://github.com/marketplace/actions/todo-issue#available-options
         with:
-          label: [todo]
+          label: todo
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
