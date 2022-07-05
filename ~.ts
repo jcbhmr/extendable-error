@@ -9,7 +9,7 @@ class ExtendableError extends Error {
 		// not be instantiated itself, only extended.
 		if (new.target === ExtendableError) {
 		    // This is the same error message that new HTMLElement() gives
-		    throw new Error(`Illegal constructor`)
+		    throw new Error("Illegal constructor")
 		}
 		
 		super(a, ...rest)
